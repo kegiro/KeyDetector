@@ -10,7 +10,5 @@ KeyDetector is a simple Rust-based key detection program that highlights pressed
 - Press **Esc** to exit.
 
 ## 🛠 Installation
-Make sure you have **Rust** installed. If not, install it at:
+Make sure you have **Rust** installed. If not, you can [Visit Rust's Official Website](https://www.rust-lang.org/)
 
-```sh
-https://www.rust-lang.org/ | sh
